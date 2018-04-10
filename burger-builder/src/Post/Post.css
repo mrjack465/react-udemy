@@ -1,0 +1,7 @@
+.Post#close:hover {
+    float: right;
+    display:inline-block;
+    padding: 2px 5px;
+    background: #ccc;
+    color: #fff;
+}
